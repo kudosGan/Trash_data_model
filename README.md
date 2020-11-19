@@ -3,4 +3,4 @@
 
 
 
-![Front End Developer](https://kudosgan.github.io/La_vie_Canadianne/image/Flags/country_bio.GIF)
+![Front End Developer](https://kudosgan.github.io/La_vie_Canadianne/image/trash/readme/trashreadme.jpg)
